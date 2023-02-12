@@ -71,6 +71,7 @@ mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App"
 ![Ejecutando](./images/image8.png)
 Realice elcambio en la clase App.java para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación.
 ![CambioApp](./images/image9.png)
+
 Para mandar parametros al plugin "exec" se da de la siguiente manera
 
 ```console
