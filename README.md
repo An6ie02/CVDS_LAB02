@@ -46,7 +46,7 @@ tree /f
 ### AJUSTAR ALGUNAS CONFIGURACIONES EN EL PROYECTO
 
 Hay que cambiar la version delcompilador de Java a la versión 8, para ello, agregue la sección properties antes de la sección de
-dependencias:
+dependencias:\
 ![Configuraciones](./images/image5.png)
 
 ### COMPILAR Y EJECUTAR
