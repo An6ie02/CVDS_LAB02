@@ -101,4 +101,4 @@ Parámetro: pentagon
 Parámetro: Hexagon
 ![ShapeMain4](./images/image17.png)
 
-#### ¿Cuál(es) de las anterioresinstruccionesse ejecutan y funcionan correctamente y por qué?
+#### ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
