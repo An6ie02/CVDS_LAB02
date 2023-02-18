@@ -132,7 +132,7 @@ Parámetro: Hexagon
 
 #### **¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?**
 Todas las intrucciones ejecutadas funcionan correctamente, pues hace las correspondientes validaciones como lo son: que tenga párametro, que exista la figura ingresada y por último si cumple lo anterior muestra los vértices de la figura.
-## Fuentes
+
 [1]:https://maven.apache.org/what-is-maven.html "Maven"
 [2]:https://www.arquitecturajava.com/que-es-un-maven-lifecycle-y-como-funciona "Fases CVDS"
 [3]:https://www.ibm.com/docs/es/ibm-mq/9.1?topic=applications-java-application-development-using-maven-repository "Repositorio Maven"
